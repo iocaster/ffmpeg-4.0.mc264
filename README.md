@@ -1,3 +1,10 @@
+
+Build ffmpeg-4.0.mc264 for Android
+=============
+Follow this guide : https://medium.com/@karthikcodes1999/cross-compiling-ffmpeg-4-0-for-android-b988326f16f2
+
+
+
 FFmpeg README
 =============
 
