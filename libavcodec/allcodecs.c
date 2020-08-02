@@ -29,6 +29,8 @@
 #include "avcodec.h"
 #include "version.h"
 
+extern AVCodec ff_mcaac_encoder;
+extern AVCodec ff_mc264_encoder;
 extern AVCodec ff_a64multi_encoder;
 extern AVCodec ff_a64multi5_encoder;
 extern AVCodec ff_aasc_decoder;
